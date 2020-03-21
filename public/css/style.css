@@ -1,0 +1,48 @@
+body {
+    background-image: radial-gradient(circle, #e55d87 0%,#00d4ff 100%);
+    
+}
+
+.navbar-brand{
+    font-style: bold;
+    font-size: x-large;
+    
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.text-desc {
+    font-size: 8pt;
+    margin-top: 2pt;
+}
+.alert {
+    background-color: transparent;
+    border-color: black;
+    
+}
+
+.card {
+    border-radius: 5%;
+    margin: 20px;
+    width: initial;
+    height: initial;
+    background-image: radial-gradient(circle, #f2fcfe 0%, #68f3f8 100%);
+    border-color: black;
+    font-style: bold;
+}
+
+.card-header {
+    border-radius: 3%;
+    font-size: xx-large;
+    border-color: black;
+    background-color: transparent;
+    border-radius: 5%;
+}
+
+.form-control{
+    font-size: 10pt;
+    background-color: transparent;
+    border-color: black;
+}
