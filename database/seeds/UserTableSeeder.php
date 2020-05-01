@@ -37,7 +37,7 @@ class UserTableSeeder extends Seeder
          ]);
 
         Kelas::create([
-            'nama_kelas' => 'XII RPL 2',
+            'nama_kelas' => 'XII RPL',
             'kompetensi_keahlian' => 'Rekayasa Perangkat Lunak'
         ]);
 

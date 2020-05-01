@@ -20,11 +20,11 @@ class CreatePembayaranTable extends Migration
             $table->bigInteger('id_siswa')->unsigned();
             $table->foreign('id_siswa')->references('id')->on('siswa')->onDelete('cascade');
             $table->string('spp_bulan',20);
-          #$table->date('tgl_bayar');
-         #$table->string('bulan_bayar', 8);
-         #$table->string('tahun_bayar', 4);
-         #$table->bigInteger('id_spp')->unsigned();
-         #$table->foreign('id_spp')->references('id')->on('siswa');
+            $table->date('tgl_bayar');
+            #$table->string('bulan_bayar', 8);
+            #$table->string('tahun_bayar', 4);
+            #$table->bigInteger('id_spp')->unsigned();
+            #$table->foreign('id_spp')->references('id')->on('siswa');
             $table->integer('jumlah_bayar');
             $table->timestamps();
         });

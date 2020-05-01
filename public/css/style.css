@@ -28,7 +28,7 @@ body {
     margin: 20px;
     width: initial;
     height: initial;
-    background-image: radial-gradient(circle, #f2fcfe 0%, #68f3f8 100%);
+    background-image: radial-gradient(circle, #f2fcfe 10%, #68f3f8 100%);
     border-color: black;
     font-style: bold;
 }
@@ -43,6 +43,6 @@ body {
 
 .form-control{
     font-size: 10pt;
-    background-color: transparent;
+    background-image: radial-gradient(circle, #68f3f8 10%, #f2fcfe 100%);
     border-color: black;
 }

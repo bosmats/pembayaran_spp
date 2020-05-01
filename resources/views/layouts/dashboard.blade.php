@@ -234,7 +234,7 @@
             <!-- footer -->
             <!-- ============================================================== -->
             <footer class="footer text-center">
-                Design by Admin. Backend by <a href="https://github.com/ravialdo">Bosmats</a>.
+                Design by Admin. Backend by <a href="https://github.com/bosmats">Bosmats</a>.
             </footer>
             <!-- ============================================================== -->
             <!-- End footer -->
