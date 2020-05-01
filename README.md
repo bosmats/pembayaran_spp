@@ -106,17 +106,22 @@ lakukan terlebih dahulu pembuatan database dengan nama db_spp1 sebelum melakukan
 
 ## Akun Untuk Login
 <p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/1.png" width="300"></span></p>
+
 Level Admin
 - email        : admin@spp.com
+
 -  password : smkbifor33
 
 Level Petugas
 - email       : petugas@spp.com
+
 - password : petugas
 
 <p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/2.png" width="300"></span></p>
+
 Level Siswa
 - NISN  : 0020818551
+
 - Nama : Muhamad Rizki
 
 ## Gambar
@@ -133,4 +138,4 @@ Level Siswa
 
 ## Penutup
 
-Semoga bermanfaat, dan dapat menambah wawasan kalian.
+Semoga bermanfaat, dan dapat digunakan dengan baik
