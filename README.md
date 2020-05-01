@@ -105,7 +105,7 @@ Catatan :
 lakukan terlebih dahulu pembuatan database dengan nama db_spp1 sebelum melakukan migrate.
 
 ## Akun Untuk Login
-<span><img src="https://github.com/bosmats/pembayaran-spp/blob/master/dokumentasi/1.png" width="300"></span>
+<p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/1.png" width="300"></span></p>
 Level Admin
 - email        : admin@spp.com
 -  password : smkbifor33
@@ -113,7 +113,8 @@ Level Admin
 Level Petugas
 - email       : petugas@spp.com
 - password : petugas
-<span><img src="https://github.com/bosmats/pembayaran-spp/blob/master/dokumentasi/2.png" width="300"></span>
+
+<p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/2.png" width="300"></span></p>
 Level Siswa
 - NISN  : 0020818551
 - Nama : Muhamad Rizki
@@ -121,13 +122,13 @@ Level Siswa
 ## Gambar
 
 <p align="center">
- <span><img src="https://github.com/bosmats/pembayaran-spp/blob/master/dokumentasi/4.png" width="300"></span>
- <span><img src="https://github.com/bosmats/pembayaran-spp/blob/master/dokumentasi/5.png" width="300"></span>
- <span><img src="https://github.com/bosmats/pembayaran-spp/blob/master/dokumentasi/6.png" width="300"></span>
- <span><img src="https://github.com/bosmats/pembayaran-spp/blob/master/dokumentasi/7.png" width="300"></span>
- <span><img src="https://github.com/bosmats/pembayaran-spp/blob/master/dokumentasi/8.png" width="300"></span>
- <span><img src="https://github.com/bosmats/pembayaran-spp/blob/master/dokumentasi/9.png" width="300"></apan>
- <span><img src="https://github.com/bosmats/pembayaran-spp/blob/master/dokumentasi/10.png" width="300"></span>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/4.png" width="300"></span>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/5.png" width="300"></span>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/6.png" width="300"></span>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/7.png" width="300"></span>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/8.png" width="300"></span>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/9.png" width="300"></apan>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/10.png" width="300"></span>
 </p>
 
 ## Penutup
