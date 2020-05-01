@@ -1,8 +1,10 @@
-<p align="center"><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/3.png" width="600"></p>
-
 <p align="center">
     <h1>E-Pembayaran SPP</h1>
 </p>
+
+
+<p align="center"><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/3.png" width="600"></p>
+
 
 ## Tentang E-Pembayaran SPP
 
@@ -117,9 +119,10 @@ Level Petugas
 
 - password : petugas
 
+Level Siswa
+
 <p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/2.png" width="300"></span></p>
 
-Level Siswa
 - NISN  : 0020818551
 
 - Nama : Muhamad Rizki
