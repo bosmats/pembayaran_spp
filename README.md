@@ -14,7 +14,7 @@ Aplikasi ini memiliki 3 hak akses level login, yang diantaranya :
 
 Level Admin
 
-<p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/1.png" width="300"></span></p>
+<p><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/1.png" width="300"></span></p>
 
 - Login
 - Logout
@@ -34,7 +34,7 @@ Level Petugas
 
 Level Siswa
 
-<p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/2.png" width="300"></span></p>
+<p><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/2.png" width="300"></span></p>
 
 - Login
 - Logout
@@ -109,8 +109,8 @@ $ composer update <br>
 $ php artisan migrate --seed <br>
 $ php artisan serve <br>
 
-Catatan :
-lakukan terlebih dahulu pembuatan database dengan nama db_spp1 sebelum melakukan migrate, dan jika tidak ingin ribet silahkan import sql yang telah says sediakan terimakasih:).
+## Catatan :
+## lakukan terlebih dahulu pembuatan database dengan nama db_spp1 sebelum melakukan migrate, dan jika anda tidak ingin ribet silahkan import sql yang telah saya sediakan terimakasih:).
 
 ## Akun Untuk Login
 
