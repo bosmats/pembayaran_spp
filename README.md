@@ -13,6 +13,9 @@ E-Pembayaran SPP adalah sebuah aplikasi untuk mempermudah sebuah sekolah dalam m
 Aplikasi ini memiliki 3 hak akses level login, yang diantaranya :
 
 Level Admin
+
+<p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/1.png" width="300"></span></p>
+
 - Login
 - Logout
 - CRUD data siswa
@@ -30,6 +33,9 @@ Level Petugas
 - Lihat Histori Pembayaran
 
 Level Siswa
+
+<p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/2.png" width="300"></span></p>
+
 - Login
 - Logout
 - Lihat Histori Pembayaran
@@ -104,10 +110,10 @@ $ php artisan migrate --seed <br>
 $ php artisan serve <br>
 
 Catatan :
-lakukan terlebih dahulu pembuatan database dengan nama db_spp1 sebelum melakukan migrate.
+lakukan terlebih dahulu pembuatan database dengan nama db_spp1 sebelum melakukan migrate, dan jika tidak ingin ribet silahkan import sql yang telah says sediakan terimakasih:).
 
 ## Akun Untuk Login
-<p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/1.png" width="300"></span></p>
+
 
 Level Admin
 - email        : admin@spp.com
@@ -121,7 +127,7 @@ Level Petugas
 
 Level Siswa
 
-<p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/2.png" width="300"></span></p>
+
 
 - NISN  : 0020818551
 
@@ -136,6 +142,7 @@ Level Siswa
  <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/7.png" width="300"></span>
  <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/8.png" width="300"></span>
  <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/9.png" width="300"></apan>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/11.png" width="300"></span>
  <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/10.png" width="300"></span>
 </p>
 
