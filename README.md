@@ -1,8 +1,10 @@
-<p align="center"><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/1.PNG" width="600"></p>
-
 <p align="center">
     <h1>E-Pembayaran SPP</h1>
 </p>
+
+
+<p align="center"><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/3.png" width="600"></p>
+
 
 ## Tentang E-Pembayaran SPP
 
@@ -102,38 +104,46 @@ $ php artisan migrate --seed <br>
 $ php artisan serve <br>
 
 Catatan :
-lakukan terlebih dahulu pembuatan database dengan nama db_spp sebelum melakukan migrate.
+lakukan terlebih dahulu pembuatan database dengan nama db_spp1 sebelum melakukan migrate.
 
 ## Akun Untuk Login
+<p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/1.png" width="300"></span></p>
 
 Level Admin
 - email        : admin@spp.com
--  password : admin
+
+-  password : smkbifor33
 
 Level Petugas
 - email       : petugas@spp.com
+
 - password : petugas
 
 Level Siswa
-- NISN  : 123456789876
-- Nama : siswa
+
+<p align="center"><span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/2.png" width="300"></span></p>
+
+- NISN  : 0020818551
+
+- Nama : Muhamad Rizki
 
 ## Gambar
 
 <p align="center">
- <span><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/2.PNG" width="300"></span>
- <span><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/3.PNG" width="300"></span>
- <span><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/4.PNG" width="300"></span>
- <span><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/5.PNG" width="300"></span>
- <span><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/6.PNG" width="300"></span>
- <span><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/7.PNG" width="300"></apan>
- <span><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/8.PNG" width="300"></span>
- <apan><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/9.PNG" width="300"></span>
- <span><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/10.PNG" width="300"></span>
- <span><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/11.PNG" width="300"></span>
- <apan><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/12.PNG" width="300"></span>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/4.png" width="300"></span>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/5.png" width="300"></span>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/6.png" width="300"></span>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/7.png" width="300"></span>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/8.png" width="300"></span>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/9.png" width="300"></apan>
+ <span><img src="https://github.com/bosmats/pembayaran_spp/blob/master/dokumentasi/10.png" width="300"></span>
 </p>
 
 ## Penutup
 
-Semoga bermanfaat, dan dapat menambah wawasan kalian.
+Semoga bermanfaat, dan dapat digunakan dengan baik
+
+## Sosial Media
+Facebook  : https://web.facebook.com/Mhmd.rizki.33
+
+Instagram : https://www.instagram.com/bosmats_/?hl=id
