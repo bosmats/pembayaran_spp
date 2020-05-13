@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Carbon;
 use App\Pembayaran;
 use App\User;
 use App\Siswa;
@@ -81,6 +82,7 @@ class PembayaranController extends Controller
          Pembayaran::create([
             'id_petugas' => auth()->user()->id,
             'id_siswa' => $id_siswa,
+            'tgl_bayar' => Carbon::now(),
             'spp_bulan' => $req->spp_bulan,
             'jumlah_bayar' => $req->jumlah_bayar,
          ]);
