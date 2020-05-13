@@ -30,7 +30,7 @@ class UserTableSeeder extends Seeder
          User::create([
             'name' => 'petugas',
             'email' => 'petugas@spp.com',
-            'password' => Hash::make('petugas123'),
+            'password' => Hash::make('petugas'),
             'level' => 'petugas',
             'created_at' => now(),
             'updated_at' => now()
@@ -47,9 +47,9 @@ class UserTableSeeder extends Seeder
         ]);
 
         Siswa::create([
-            'nisn' => '123456789876',
+            'nisn' => '0020818551',
             'nis'  => '22373687',
-            'nama' => 'siswa',
+            'nama' => 'Muhamad Rizki',
             'id_kelas' => 1,
             'nomor_telp' => '089689957106',
             'alamat' => 'Bogor',
