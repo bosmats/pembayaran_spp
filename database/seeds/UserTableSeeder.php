@@ -21,7 +21,7 @@ class UserTableSeeder extends Seeder
         User::create([
             'name' => 'admin',
             'email' => 'admin@spp.com',
-            'password' => Hash::make('admin'),
+            'password' => Hash::make('smkbifor33'),
             'level' => 'admin',
             'created_at' => now(),
             'updated_at' => now()
@@ -30,7 +30,7 @@ class UserTableSeeder extends Seeder
          User::create([
             'name' => 'petugas',
             'email' => 'petugas@spp.com',
-            'password' => Hash::make('petugas'),
+            'password' => Hash::make('petugas123'),
             'level' => 'petugas',
             'created_at' => now(),
             'updated_at' => now()
@@ -43,7 +43,7 @@ class UserTableSeeder extends Seeder
 
         Spp::create([
             'tahun' => 2020,
-            'nominal' => 150000
+            'nominal' => 250000
         ]);
 
         Siswa::create([
@@ -52,7 +52,7 @@ class UserTableSeeder extends Seeder
             'nama' => 'siswa',
             'id_kelas' => 1,
             'nomor_telp' => '089689957106',
-            'alamat' => 'Majalengka',
+            'alamat' => 'Bogor',
             'id_spp' => 1
         ]);
 
